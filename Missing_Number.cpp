@@ -6,7 +6,7 @@ class Solution {
                 for (int j =0;j<nums.size();j++){
                     if(nums[j] == i){
                         flag = 1;
-                        break;
+                        break;ssd
                     }///esasdsd
     …
             

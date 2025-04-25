@@ -7,9 +7,9 @@ class Solution {
                     if(nums[j] == i){
                         flag = 1;
                         break;ssd
-                    }///esasdsd
+                    }
     …
             
             
         }
-    };//fvdsfxsdfxvfd
+    };
